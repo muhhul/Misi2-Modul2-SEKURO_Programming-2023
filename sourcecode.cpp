@@ -69,6 +69,7 @@ void pelanggan(){
             cout<<"Halo "<<nama<<" sekarang kamu berada pada tampilan awal Warung Kang Roger"<<endl;
             cout<<"1. Melihat menu"<<endl;
             cout<<"2. Keluar warung"<<endl;
+            cout<<"3. Keranjang pembelian"<<endl;
             cout<<"Masukkan angka yang ingin anda lakukan: ";
             cin>>chose;
             if(chose==1){
