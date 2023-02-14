@@ -12,5 +12,5 @@
 2. Lalu pindahkan ke folder tempat menyimpan file sourcecode.cpp
 3. Ketik ls sourcecode.cpp
 4. Ketik g++ sourcecode.cpp -o sourcode
-5. ls sourcecode sourcecode.cpp
-6. ./sourcecode
+5. Ketik ls sourcecode sourcecode.cpp
+6. Ketik ./sourcecode
